@@ -1,2 +1,2 @@
 # Pandemic_Deep-Virus
-A FullScript AI for playing Pandemic
+A TensorFlow AI for playing Pandemic
